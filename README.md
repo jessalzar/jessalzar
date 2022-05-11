@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessalzar
 - 👀 I’m interested in machine learning for the analysis and editing of photographs.
-- 🌱 I’m currently learning how to use deep learning for visual optimization and artificial intelligence of photography expansion.
+- 🌱 I’m currently learning how to use deep learning for visual optimization.
 - 📫 Reach me at [linkedin](https://www.linkedin.com/in/jessica-mp-salazar/)
 
 <!---
